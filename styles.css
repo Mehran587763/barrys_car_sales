@@ -21,6 +21,14 @@ nav {
 nav a {
     color: white;
     margin-right: 15px;
+}                       
+nav a.active {
+  background-color: white;
+  color: #14365d;
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
 main {
