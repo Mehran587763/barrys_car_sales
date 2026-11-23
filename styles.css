@@ -76,4 +76,8 @@ footer {
     width: 900px;
     margin: auto;
     font-size: 12px;
+}       
+
+.team-row {
+    margin-bottom: 16px;
 }
